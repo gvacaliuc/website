@@ -1,0 +1,24 @@
+addons:
+  apt:
+    packages:
+      - python-pygments
+env:
+  global:
+    - BINDIR=/home/travis/bin
+    - HUGO_RELEASE_LINK=https://github.com/gohugoio/hugo/releases/download/v0.45/hugo_0.45_Linux-64bit.tar.gz
+cache: 
+  directories:
+    - $BINDIR
+install:
+  - mkdir -p $BINDIR && curl -L $HUGO_RELEASE_LINK | tar zx && mv hugo $BINDIR
+script:
+  - $BINDIR/hugo
+deploy:
+  local-dir: public/
+  provider: pages
+  repo: gvacaliuc/gvacaliuc.github.io
+  target-branch: master
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  on:
+    branch: master
