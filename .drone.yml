@@ -10,6 +10,8 @@ steps:
     image: plugins/gh-pages
     settings:
       pages_directory: public
+      upstream_name: https://github.com/gvacaliuc/gvacaliuc.github.io.git
+      target_branch: master
       username: gvacaliuc
       password:
         from_secret: gh_password
