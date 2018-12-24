@@ -1,0 +1,17 @@
+kind: pipeline
+name: default
+
+steps:
+  - name: build
+    image: klakegg/hugo:alpine
+    commands:
+      - hugo
+  - name: publish
+    image: plugins/gh-pages
+    settings:
+      upstream_name: upstream
+      target_branch: master
+      pages_directory: public
+      username: gvacaliuc
+      password:
+        from_secret: gh_password

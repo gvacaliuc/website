@@ -27,7 +27,12 @@ A bit of background on [NixOS](https://nixos.org):
 ### getting started
 
 1. backup all your data
-2. get a live usb of the [latest nix
-   iso](https://nixos.org/nixos/download.html)
+1. make a live usb of the [latest nix
+   iso](https://nixos.org/nixos/download.html).  **you should boot from the usb 
+   the same way you want to boot from NixOS**, e.g. using UEFI boot or legacy MBR
+   boot
+    * don't use UNetbootin, as the nixos installer will generally fail.  the
+      UEFI installation depends on specific partition names.
+    * `dd if=nixos.iso of=/dev/sdX bs=1M` works well
 
-Once you've got all that setup 
+After booting
