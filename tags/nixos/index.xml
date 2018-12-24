@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nixos on </title>
+    <link>https://gvacaliuc.github.io/tags/nixos/</link>
+    <description>Recent content in Nixos on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Oct 2018 13:26:28 -0500</lastBuildDate>
+    
+	<atom:link href="https://gvacaliuc.github.io/tags/nixos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Installing NixOS</title>
+      <link>https://gvacaliuc.github.io/posts/installing-nixos/</link>
+      <pubDate>Sun, 21 Oct 2018 13:26:28 -0500</pubDate>
+      
+      <guid>https://gvacaliuc.github.io/posts/installing-nixos/</guid>
+      <description>Installing NixOS I&amp;rsquo;m going to use this post to catalog my journey installing NixOS. It aims to be be useful to anyone attempting to do the same / myself in the future.
+A bit of background on NixOS:
+ operating system designed around a declarative, functional package manager (nix) system upgrades / downgrades can be rolled back as they are described and referenced by a single hash declarative system configuration = define your system in a declarative PL rather than bash commands spread out over several years  getting started  backup all your data make a live usb of the latest nix iso.</description>
+    </item>
+    
+  </channel>
+</rss>

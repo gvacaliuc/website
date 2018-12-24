@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>https://gvacaliuc.github.io/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Oct 2018 13:26:28 -0500</lastBuildDate>
+    
+	<atom:link href="https://gvacaliuc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bootstrap</title>
+      <link>https://gvacaliuc.github.io/tags/bootstrap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvacaliuc.github.io/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Css</title>
+      <link>https://gvacaliuc.github.io/tags/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvacaliuc.github.io/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://gvacaliuc.github.io/tags/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvacaliuc.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://gvacaliuc.github.io/tags/golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvacaliuc.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highlight Js</title>
+      <link>https://gvacaliuc.github.io/tags/highlight-js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvacaliuc.github.io/tags/highlight-js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Html</title>
+      <link>https://gvacaliuc.github.io/tags/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvacaliuc.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://gvacaliuc.github.io/tags/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvacaliuc.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Js</title>
+      <link>https://gvacaliuc.github.io/tags/js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvacaliuc.github.io/tags/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://gvacaliuc.github.io/tags/linux/</link>
+      <pubDate>Sun, 21 Oct 2018 13:26:28 -0500</pubDate>
+      
+      <guid>https://gvacaliuc.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nix</title>
+      <link>https://gvacaliuc.github.io/tags/nix/</link>
+      <pubDate>Sun, 21 Oct 2018 13:26:28 -0500</pubDate>
+      
+      <guid>https://gvacaliuc.github.io/tags/nix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nixos</title>
+      <link>https://gvacaliuc.github.io/tags/nixos/</link>
+      <pubDate>Sun, 21 Oct 2018 13:26:28 -0500</pubDate>
+      
+      <guid>https://gvacaliuc.github.io/tags/nixos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responsive</title>
+      <link>https://gvacaliuc.github.io/tags/responsive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvacaliuc.github.io/tags/responsive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntax Highlighting</title>
+      <link>https://gvacaliuc.github.io/tags/syntax-highlighting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvacaliuc.github.io/tags/syntax-highlighting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

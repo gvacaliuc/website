@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/projects/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/projects/project2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/projects/project3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/projects/project4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/posts/installing-nixos/</loc>
+    <lastmod>2018-10-21T13:26:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/about/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/</loc>
+    <lastmod>2018-10-21T13:26:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/tags/bootstrap/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/tags/css/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/tags/go/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/tags/golang/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/tags/highlight-js/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/tags/html/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/tags/hugo/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/tags/js/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/tags/linux/</loc>
+    <lastmod>2018-10-21T13:26:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/tags/nix/</loc>
+    <lastmod>2018-10-21T13:26:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/tags/nixos/</loc>
+    <lastmod>2018-10-21T13:26:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/posts/</loc>
+    <lastmod>2018-10-21T13:26:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/tags/responsive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/tags/syntax-highlighting/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gvacaliuc.github.io/tags/</loc>
+    <lastmod>2018-10-21T13:26:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
