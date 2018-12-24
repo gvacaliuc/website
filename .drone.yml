@@ -7,8 +7,9 @@ steps:
     commands:
       - hugo
   - name: publish
-    image: appleboy/drone-git-push
+    image: plugins/gh-pages
     settings:
-      remote_name: origin
-      branch: gh-pages
-      path: public
+      pages_directory: public
+      username: gvacaliuc
+      password:
+        from_secret: gh_password
