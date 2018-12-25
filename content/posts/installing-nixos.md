@@ -6,10 +6,8 @@ description = "My journey installing NixOS on an HP Spectre x360"
 image = "img/posts/nixos-logo.png"
 github = "gvacaliuc/"
 tags = ["nix", "nixos", "linux"]
-draft = false
+draft = true
 +++
-
-## Installing NixOS
 
 I'm going to use this post to catalog my journey installing NixOS.  It aims to
 be be useful to anyone attempting to do the same / myself in the future.
@@ -35,4 +33,8 @@ A bit of background on [NixOS](https://nixos.org):
       UEFI installation depends on specific partition names.
     * `dd if=nixos.iso of=/dev/sdX bs=1M` works well
 
-After booting
+### system level setup
+
+### user level setup
+
+### developer setup

@@ -2,7 +2,7 @@
 
 <main>
 
-    {{ partial "list-item" . }}
+    {{ partial "post-header" . }}
 
     <br> <div class="text-justify">{{ .Content }}</div>
 
@@ -17,12 +17,16 @@
 
     {{ end }}
 
-    {{ if and .Site.DisqusShortname (not .Params.disableComments) }}
-
+    {{ with .Site.Params.GithubRepo }}
         <h4 class="page-header">Comments</h4>
 
-        {{ template "_internal/disqus.html" . }}
-
+        <script src="https://utteranc.es/client.js"
+                repo="{{ . }}"
+                issue-term="pathname"
+                theme="github-light"
+                crossorigin="anonymous"
+                async>
+        </script>
     {{ end }}
 
 </main>
