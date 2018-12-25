@@ -7,7 +7,7 @@ steps:
     commands:
       - hugo
   - name: publish
-    image: plugins/gh-pages
+    image: gvacaliuc/drone-gh-pages
     settings:
       pages_directory: public
       upstream_name: https://github.com/gvacaliuc/gvacaliuc.github.io.git
